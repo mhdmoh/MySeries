@@ -45,9 +45,9 @@ set up your movies and shows library very easliy
 ## Sreenshot :
 ### Authentication :
 <p float="left">
-<img src="https://user-images.githubusercontent.com/80918411/111808000-3e0aa600-88dc-11eb-99be-36dfe0c59867.png" width="270" height="480">
-<img src="https://user-images.githubusercontent.com/80918411/111808013-41059680-88dc-11eb-9f6f-463275ca54c6.png" width="270" height="480">
-<img src="https://user-images.githubusercontent.com/80918411/111808019-4236c380-88dc-11eb-907d-63fb16dba770.png" width="270" height="480">
+<img src="https://user-images.githubusercontent.com/80918411/111819745-6351e100-88e9-11eb-99ce-4da948486d65.png" width ="32%">
+<img src="https://user-images.githubusercontent.com/80918411/111819764-66e56800-88e9-11eb-9564-7971d9b8170a.png" width ="32%">
+<img src="https://user-images.githubusercontent.com/80918411/111819756-65b43b00-88e9-11eb-9b10-c1ecce7c55f4.png" width ="32%">
 </p>
 
 ### Status :
