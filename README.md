@@ -79,7 +79,7 @@ set up your movies and shows library very easliy
 <img src="https://user-images.githubusercontent.com/80918411/111810863-24b72900-88df-11eb-8dae-e641257d9fcd.png" width ="32%">
 </p>
 
-### Search Fuction :
+### Search Page :
 <p float="left">
 <img src="https://user-images.githubusercontent.com/80918411/111810204-6bf0ea00-88de-11eb-87fd-b4ed10dac4d7.jpg" width ="32%">
 </p>
