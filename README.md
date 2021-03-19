@@ -81,5 +81,5 @@ set up your movies and shows library very easliy
 
 ### Search Fuction :
 <p float="left">
-<img src="https://user-images.githubusercontent.com/80918411/111810204-6bf0ea00-88de-11eb-87fd-b4ed10dac4d7.jpg" width="270" height="480">
+<img src="https://user-images.githubusercontent.com/80918411/111810204-6bf0ea00-88de-11eb-87fd-b4ed10dac4d7.jpg" width ="32%">
 </p>
