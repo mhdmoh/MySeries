@@ -52,9 +52,9 @@ set up your movies and shows library very easliy
 
 ### Status :
 <p float="left">
-<img src="https://user-images.githubusercontent.com/80918411/111817776-1a992880-88e7-11eb-863f-ec7dc0de3d7a.png" width="270" height="480">
-<img src="https://user-images.githubusercontent.com/80918411/111817757-166d0b00-88e7-11eb-97a5-1da971b2d144.png" width="270" height="480">
-<img src="https://user-images.githubusercontent.com/80918411/111817768-1967fb80-88e7-11eb-8f20-8826a691b971.jpg" width="270" height="550">
+<img src="https://user-images.githubusercontent.com/80918411/111818222-9c895180-88e7-11eb-8156-0bf58c60d6dc.png" width ="32%">
+<img src="https://user-images.githubusercontent.com/80918411/111818194-95fada00-88e7-11eb-883a-8d6349f0d8fb.png" width ="32%">
+<img src="https://user-images.githubusercontent.com/80918411/111818209-9a26f780-88e7-11eb-9336-fe63e7a17765.jpg" width ="32%">
 </p>
 
 ### Explore :
