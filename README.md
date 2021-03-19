@@ -39,6 +39,9 @@ set up your movies and shows library very easliy
 	- [Android-ProgressViews](https://github.com/zekapp/Android-ProgressViews)
 	- [picasso](https://github.com/square/picasso)
 
+- The database used in this application :
+ 	- [TMDB](https://www.themoviedb.org)
+
 ## Sreenshot :
 ### Authentication :
 <p float="left">
