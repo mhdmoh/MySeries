@@ -52,21 +52,21 @@ set up your movies and shows library very easliy
 
 ### Status :
 <p float="left">
+<img src="https://user-images.githubusercontent.com/80918411/111818209-9a26f780-88e7-11eb-9336-fe63e7a17765.jpg" width ="32%">
 <img src="https://user-images.githubusercontent.com/80918411/111818222-9c895180-88e7-11eb-8156-0bf58c60d6dc.png" width ="32%">
 <img src="https://user-images.githubusercontent.com/80918411/111818194-95fada00-88e7-11eb-883a-8d6349f0d8fb.png" width ="32%">
-<img src="https://user-images.githubusercontent.com/80918411/111818209-9a26f780-88e7-11eb-9336-fe63e7a17765.jpg" width ="32%">
 </p>
 
 ### Explore :
 <p float="left">
-<img src="https://user-images.githubusercontent.com/80918411/111808920-2122a280-88dd-11eb-98dd-2b8cee1893a2.png" width="270" height="480">
-<img src="https://user-images.githubusercontent.com/80918411/111808845-0bad7880-88dd-11eb-8d30-f961db6603a0.png" width="270" height="480">
+<img src="https://user-images.githubusercontent.com/80918411/111808920-2122a280-88dd-11eb-98dd-2b8cee1893a2.png" width ="32%">
+<img src="https://user-images.githubusercontent.com/80918411/111808845-0bad7880-88dd-11eb-8d30-f961db6603a0.png" width ="32%">
 </p>
 
 ### Movies and Actor Information :
 <p float="left">
-<img src="https://user-images.githubusercontent.com/80918411/111809706-f127cf00-88dd-11eb-83f4-a49f9ae7fe07.jpg" width="270" height="520">
-<img src="https://user-images.githubusercontent.com/80918411/111809847-14527e80-88de-11eb-8b77-e07d33d54890.jpg" width="270" height="520">
+<img src="https://user-images.githubusercontent.com/80918411/111818903-5f718f00-88e8-11eb-8d83-36d412435525.jpg" width ="32%">
+<img src="https://user-images.githubusercontent.com/80918411/111819283-d4dd5f80-88e8-11eb-9874-ed0adf50e958.jpg" width ="32%">
 </p>
 
 ### Shows information :
