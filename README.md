@@ -71,8 +71,8 @@ set up your movies and shows library very easliy
 
 ### Shows information :
 <p float="left">
-<img src="https://user-images.githubusercontent.com/80918411/111810716-fe918900-88de-11eb-9bae-e55c67ad45fa.jpg" width ="32%">
 <img src="https://user-images.githubusercontent.com/80918411/111810818-1701a380-88df-11eb-93a1-e46e51ee0e83.jpg" width ="32%">
+<img src="https://user-images.githubusercontent.com/80918411/111810716-fe918900-88de-11eb-9bae-e55c67ad45fa.jpg" width ="32%">
 <img src="https://user-images.githubusercontent.com/80918411/111810831-19fc9400-88df-11eb-93ec-708f2498001f.jpg" width ="32%">
 <img src="https://user-images.githubusercontent.com/80918411/111810839-1c5eee00-88df-11eb-939b-378921c65f79.jpg" width ="32%">
 <img src="https://user-images.githubusercontent.com/80918411/111810847-1ec14800-88df-11eb-91db-ff79bf88dd30.png" width ="32%">
